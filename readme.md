@@ -14,7 +14,14 @@
 - RESTful API
 - JavaScript
 - CSS
-- Heroku
+
+<br/>
+
+### Deployed link:
+
+[Cryptocurrency-Tracker](https://cryptocurrency-tracker-price.netlify.app/)
+
+<p>&nbsp;</p>
 
 ### Coinranking API:
 https://coinranking1.p.rapidapi.com
